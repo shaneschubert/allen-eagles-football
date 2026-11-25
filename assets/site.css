@@ -151,3 +151,7 @@ main .view{padding-top:0}
 .ptsvg{width:100%;min-width:720px;height:auto;display:block}.ptsvg .ax{font-size:11px;fill:#4A4F5A}.ptsvg .vl{font-size:11px;fill:#4A4F5A;font-weight:600}.ptsvg .vl.a{fill:#0B1F3A;font-weight:800}.ptsvg .gx{font-size:12px;font-weight:700;fill:#0B1F3A}.ptsvg .gw{font-size:11px;fill:#4A4F5A}.ptsvg a:hover .gx{text-decoration:underline}
 .lgd{display:flex;gap:18px;font-size:13px;font-weight:600;color:#4A4F5A;margin:-4px 0 8px}.lgd i{display:inline-block;width:12px;height:12px;border-radius:2px;margin-right:6px;vertical-align:-1px}
 .g2t{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,480px),1fr));gap:0 22px;align-items:start}.g2t>.card h2{font-size:18px}
+
+.onpage{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;margin:14px 0 4px;font-size:14px;font-weight:700}.onpage span{color:#4A4F5A;font-size:12px;letter-spacing:.08em;text-transform:uppercase;margin-left:6px}.onpage span:first-child{margin-left:0}.onpage a{color:#0B1F3A}
+h2.sec{font-family:'Roboto Slab',serif;font-weight:900;color:#0B1F3A;font-size:28px;margin:36px 0 0;padding-bottom:8px;border-bottom:3px solid #C8102E}
+[id]{scroll-margin-top:84px}
