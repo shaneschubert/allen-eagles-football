@@ -115,7 +115,7 @@ table.tbl{width:100%;border-collapse:collapse;font-size:14px;white-space:nowrap}
 .tbl th{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:#4A4F5A;padding:8px 10px;border-bottom:2px solid #0B1F3A;background:#fff;position:sticky;top:0}
 .tbl th[data-s]{cursor:pointer}.tbl th[data-s]:hover{color:#0B1F3A}.tbl th[aria-sort=descending]:after{content:' ▼'}.tbl th[aria-sort=ascending]:after{content:' ▲'}
 .tbl td{padding:7px 10px;border-bottom:1px solid #EDEBE5;font-variant-numeric:tabular-nums}.tbl tbody tr:hover td{background:#F7F6F2}
-.tbl .l{text-align:left}.tbl .r{text-align:right}.tbl td:first-child,.tbl th:first-child{padding-left:0}
+.tbl.arc td:first-child{min-width:9.5em}@media (max-width:600px){.tbl.arc{width:100%}.tbl.arc td{white-space:normal}.tbl.arc td:first-child{min-width:0;width:40%}.tbl.arc td:nth-child(3){white-space:nowrap}.tbl.arc th:nth-child(4),.tbl.arc td:nth-child(4){display:none}}.tbl .l{text-align:left}.tbl .r{text-align:right}.tbl td:first-child,.tbl th:first-child{padding-left:0}
 .tbl tfoot td{font-weight:800;color:#0B1F3A;border-top:2px solid #0B1F3A;border-bottom:0}
 .tbl a{color:#0B1F3A;font-weight:600}
 .tbl .num{color:#B3122E;font-family:'Roboto Slab',serif;font-weight:800}
