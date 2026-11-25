@@ -1,5 +1,3 @@
-# Allen Eagles Football 2026
+# Allen Eagles Football
 
-An unofficial, fan-produced website for the 2026 Allen Eagles football season. Not affiliated with Allen ISD or Allen High School.
-
-Generated static site. Served by GitHub Pages.
+Unofficial, fan-produced site for Allen Eagles football: https://alleneaglesfootball.com. Not affiliated with Allen ISD or Allen High School.
