@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://shaneschubert.github.io/allen-eagles-football/sitemap.xml
+Sitemap: https://alleneaglesfootball.com/sitemap.xml
